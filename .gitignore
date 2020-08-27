@@ -1,0 +1,9 @@
+# python files
+*.py[cod]
+
+# ansible retry files
+*.retry
+
+# IDE files
+.idea/
+*.swp
